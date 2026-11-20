@@ -1,0 +1,62 @@
+
+image.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 225
+  size: 1280, 1440
+  orig: 1280, 1440
+  offset: 0, 0
+  index: -1
+ballista
+  rotate: false
+  xy: 1284, 1417
+  size: 24, 128
+  orig: 24, 128
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 2, 36
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+healthBarBorder
+  rotate: false
+  xy: 2, 166
+  size: 246, 57
+  orig: 246, 57
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+seagull
+  rotate: false
+  xy: 250, 170
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+soul
+  rotate: false
+  xy: 1414, 1601
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+wyvern
+  rotate: false
+  xy: 1284, 1547
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1

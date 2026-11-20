@@ -1,0 +1,8 @@
+{
+  "leftKey": "Left",
+  "rightKey": "Right",
+  "upKey": "Up",
+  "downKey": "Down",
+  "moveSpeed": 600,
+  "zoomSpeed": 2
+}
